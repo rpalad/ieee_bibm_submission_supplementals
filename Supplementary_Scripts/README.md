@@ -2,8 +2,9 @@
 
 Analysis and scoring scripts used to produce the supplementary data files for:
 
-> Anonymous, "Computational De Novo Design of Miniprotein Candidate
-> Neutralizers Targeting the IL-23 Cytokine Subunit p19," IEEE BIBM 2026.
+> R. Paladugu and F. F. Alam, "Computational De Novo Design of Miniprotein
+> Candidate Neutralizers Targeting the IL-23 Cytokine Subunit p19," in *Proc.
+> IEEE Int. Conf. Bioinformatics and Biomedicine (BIBM)*, 2026.
 
 All scripts were run on the the institutional HPC cluster
 with NVIDIA A100 (40 GB) GPUs under SLURM.
